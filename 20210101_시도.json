@@ -1,103 +1,103 @@
 [
     {
         "name": "서울특별시",
-        "dosi": "11",
+        "code": "11",
         "en": "Seoul",
         "cn": "서울特別市"
     },
     {
         "name": "부산광역시",
-        "dosi": "21",
+        "code": "21",
         "en": "Busan",
         "cn": "釜山廣域市"
     },
     {
         "name": "대구광역시",
-        "dosi": "22",
+        "code": "22",
         "en": "Daegu",
         "cn": "大邱廣域市"
     },
     {
         "name": "인천광역시",
-        "dosi": "23",
+        "code": "23",
         "en": "Incheon",
         "cn": "仁川廣域市"
     },
     {
         "name": "광주광역시",
-        "dosi": "24",
+        "code": "24",
         "en": "Gwangju",
         "cn": "光州廣域市"
     },
     {
         "name": "대전광역시",
-        "dosi": "25",
+        "code": "25",
         "en": "Daejeon",
         "cn": "大田廣域市"
     },
     {
         "name": "울산광역시",
-        "dosi": "26",
+        "code": "26",
         "en": "Ulsan",
         "cn": "蔚山廣域市"
     },
     {
         "name": "세종특별자치시",
-        "dosi": "29",
+        "code": "29",
         "en": "",
         "cn": "世宗特別自治市"
     },
     {
         "name": "경기도",
-        "dosi": "31",
+        "code": "31",
         "en": "Gyeonggi-do",
         "cn": "京畿道"
     },
     {
         "name": "강원도",
-        "dosi": "32",
+        "code": "32",
         "en": "Gangwon-do",
         "cn": "江原道"
     },
     {
         "name": "충청북도",
-        "dosi": "33",
+        "code": "33",
         "en": "Chungcheongbuk-do",
         "cn": "忠淸北道"
     },
     {
         "name": "충청남도",
-        "dosi": "34",
+        "code": "34",
         "en": "Chungcheongnam-do",
         "cn": "忠淸南道"
     },
     {
         "name": "전라북도",
-        "dosi": "35",
+        "code": "35",
         "en": "Jeollabuk-do",
         "cn": "全羅北道"
     },
     {
         "name": "전라남도",
-        "dosi": "36",
+        "code": "36",
         "en": "Jeollanam-do",
         "cn": "全羅南道"
     },
     {
         "name": "경상북도",
-        "dosi": "37",
+        "code": "37",
         "en": "Gyeongsangbuk-do",
         "cn": "慶尙北道"
     },
     {
         "name": "경상남도",
-        "dosi": "38",
+        "code": "38",
         "en": "Gyeongsangnam-do",
         "cn": "慶尙南道"
     },
     {
         "name": "제주특별자치도",
-        "dosi": "39",
+        "code": "39",
         "en": "Jeju",
         "cn": "濟州特別自治道"
     }

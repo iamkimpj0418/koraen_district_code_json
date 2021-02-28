@@ -1,1826 +1,1826 @@
 [
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11010",
         "name": "종로구",
         "en": "Jongno-gu",
         "cn": "鐘路區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11020",
         "name": "중구",
         "en": "Jung-gu",
         "cn": "中區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11030",
         "name": "용산구",
         "en": "Yongsan-gu",
         "cn": "龍山區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11040",
         "name": "성동구",
         "en": "Seongdong-gu",
         "cn": "城東區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11050",
         "name": "광진구",
         "en": "Gwangjin-gu",
         "cn": "廣津區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11060",
         "name": "동대문구",
         "en": "Dongdaemun-gu",
         "cn": "東大門區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11070",
         "name": "중랑구",
         "en": "Jungnang-gu",
         "cn": "中浪區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11080",
         "name": "성북구",
         "en": "Seongbuk-gu",
         "cn": "城北區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11090",
         "name": "강북구",
         "en": "Gangbuk-gu",
         "cn": "江北區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11100",
         "name": "도봉구",
         "en": "Dobong-gu",
         "cn": "道峰區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11110",
         "name": "노원구",
         "en": "Nowon-gu",
         "cn": "蘆原區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11120",
         "name": "은평구",
         "en": "Eunpyeong-gu",
         "cn": "恩平區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11130",
         "name": "서대문구",
         "en": "Seodaemun-gu",
         "cn": "西大門區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11140",
         "name": "마포구",
         "en": "Mapo-gu",
         "cn": "麻浦區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11150",
         "name": "양천구",
         "en": "Yangcheon-gu",
         "cn": "陽川區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11160",
         "name": "강서구",
         "en": "Gangseo-gu",
         "cn": "江西區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11170",
         "name": "구로구",
         "en": "Guro-gu",
         "cn": "九老區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11180",
         "name": "금천구",
         "en": "Geumcheon-gu",
         "cn": "衿川區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11190",
         "name": "영등포구",
         "en": "Yeongdeungpo-gu",
         "cn": "永登浦區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11200",
         "name": "동작구",
         "en": "Dongjak-gu",
         "cn": "銅雀區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11210",
         "name": "관악구",
         "en": "Gwanak-gu",
         "cn": "冠岳區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11220",
         "name": "서초구",
         "en": "Seocho-gu",
         "cn": "瑞草區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11230",
         "name": "강남구",
         "en": "Gangnam-gu",
         "cn": "江南區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11240",
         "name": "송파구",
         "en": "Songpa-gu",
         "cn": "松坡區"
     },
     {
-        "dosi_code": "11",
+        "city_code": "11",
         "code": "11250",
         "name": "강동구",
         "en": "Gangdong-gu",
         "cn": "江東區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21010",
         "name": "중구",
         "en": "Jung-gu",
         "cn": "中區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21020",
         "name": "서구",
         "en": "Seo-gu",
         "cn": "西區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21030",
         "name": "동구",
         "en": "Dong-gu",
         "cn": "東區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21040",
         "name": "영도구",
         "en": "Yeongdo-gu",
         "cn": "影島區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21050",
         "name": "부산진구",
         "en": "Busanjin-gu",
         "cn": "釜山鎭區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21060",
         "name": "동래구",
         "en": "Dongnae-gu",
         "cn": "東萊區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21070",
         "name": "남구",
         "en": "Nam-gu",
         "cn": "南區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21080",
         "name": "북구",
         "en": "Buk-gu",
         "cn": "北區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21090",
         "name": "해운대구",
         "en": "Haeundae-gu",
         "cn": "海雲臺區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21100",
         "name": "사하구",
         "en": "Saha-gu",
         "cn": "沙下區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21110",
         "name": "금정구",
         "en": "Geumjeong-gu",
         "cn": "金井區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21120",
         "name": "강서구",
         "en": "Gangseo-gu",
         "cn": "江西區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21130",
         "name": "연제구",
         "en": "Yeonje-gu",
         "cn": "蓮堤區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21140",
         "name": "수영구",
         "en": "Suyeong-gu",
         "cn": "水營區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21150",
         "name": "사상구",
         "en": "Sasang-gu",
         "cn": "沙上區"
     },
     {
-        "dosi_code": "21",
+        "city_code": "21",
         "code": "21310",
         "name": "기장군",
         "en": "Gijang-gun",
         "cn": "機張郡"
     },
     {
-        "dosi_code": "22",
+        "city_code": "22",
         "code": "22010",
         "name": "중구",
         "en": "Jung-gu",
         "cn": "中區"
     },
     {
-        "dosi_code": "22",
+        "city_code": "22",
         "code": "22020",
         "name": "동구",
         "en": "Dong-gu",
         "cn": "東區"
     },
     {
-        "dosi_code": "22",
+        "city_code": "22",
         "code": "22030",
         "name": "서구",
         "en": "Seo-gu",
         "cn": "西區"
     },
     {
-        "dosi_code": "22",
+        "city_code": "22",
         "code": "22040",
         "name": "남구",
         "en": "Nam-gu",
         "cn": "南區"
     },
     {
-        "dosi_code": "22",
+        "city_code": "22",
         "code": "22050",
         "name": "북구",
         "en": "Buk-gu",
         "cn": "北區"
     },
     {
-        "dosi_code": "22",
+        "city_code": "22",
         "code": "22060",
         "name": "수성구",
         "en": "Suseong-gu",
         "cn": "壽城區"
     },
     {
-        "dosi_code": "22",
+        "city_code": "22",
         "code": "22070",
         "name": "달서구",
         "en": "Dalseo-gu",
         "cn": "達西區"
     },
     {
-        "dosi_code": "22",
+        "city_code": "22",
         "code": "22310",
         "name": "달성군",
         "en": "Dalseong-gun",
         "cn": "達城郡"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23010",
         "name": "중구",
         "en": "Jung-gu",
         "cn": "中區"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23020",
         "name": "동구",
         "en": "Dong-gu",
         "cn": "東區"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23040",
         "name": "연수구",
         "en": "Yeonsu-gu",
         "cn": "延壽區"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23050",
         "name": "남동구",
         "en": "Namdong-gu",
         "cn": "南洞區"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23060",
         "name": "부평구",
         "en": "Bupyeong-gu",
         "cn": "富平區"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23070",
         "name": "계양구",
         "en": "Gyeyang-gu",
         "cn": "桂陽區"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23080",
         "name": "서구",
         "en": "Seo-gu",
         "cn": "西區"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23090",
         "name": "미추홀구",
         "en": "Michuhol-gu",
         "cn": "彌鄒忽洞"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23310",
         "name": "강화군",
         "en": "Ganghwa-gun",
         "cn": "江華郡"
     },
     {
-        "dosi_code": "23",
+        "city_code": "23",
         "code": "23320",
         "name": "옹진군",
         "en": "Ongjin-gun",
         "cn": "甕津郡"
     },
     {
-        "dosi_code": "24",
+        "city_code": "24",
         "code": "24010",
         "name": "동구",
         "en": "Dong-gu",
         "cn": "東區"
     },
     {
-        "dosi_code": "24",
+        "city_code": "24",
         "code": "24020",
         "name": "서구",
         "en": "Seo-gu",
         "cn": "西區"
     },
     {
-        "dosi_code": "24",
+        "city_code": "24",
         "code": "24030",
         "name": "남구",
         "en": "Nam-gu",
         "cn": "南區"
     },
     {
-        "dosi_code": "24",
+        "city_code": "24",
         "code": "24040",
         "name": "북구",
         "en": "Buk-gu",
         "cn": "北區"
     },
     {
-        "dosi_code": "24",
+        "city_code": "24",
         "code": "24050",
         "name": "광산구",
         "en": "Gwangsan-gu",
         "cn": "光山區"
     },
     {
-        "dosi_code": "25",
+        "city_code": "25",
         "code": "25010",
         "name": "동구",
         "en": "Dong-gu",
         "cn": "東區"
     },
     {
-        "dosi_code": "25",
+        "city_code": "25",
         "code": "25020",
         "name": "중구",
         "en": "Jung-gu",
         "cn": "中區"
     },
     {
-        "dosi_code": "25",
+        "city_code": "25",
         "code": "25030",
         "name": "서구",
         "en": "Seo-gu",
         "cn": "西區"
     },
     {
-        "dosi_code": "25",
+        "city_code": "25",
         "code": "25040",
         "name": "유성구",
         "en": "Yuseong-gu",
         "cn": "儒城區"
     },
     {
-        "dosi_code": "25",
+        "city_code": "25",
         "code": "25050",
         "name": "대덕구",
         "en": "Daedeok-gu",
         "cn": "大德區"
     },
     {
-        "dosi_code": "26",
+        "city_code": "26",
         "code": "26010",
         "name": "중구",
         "en": "Jung-gu",
         "cn": "中區"
     },
     {
-        "dosi_code": "26",
+        "city_code": "26",
         "code": "26020",
         "name": "남구",
         "en": "Nam-gu",
         "cn": "南區"
     },
     {
-        "dosi_code": "26",
+        "city_code": "26",
         "code": "26030",
         "name": "동구",
         "en": "Dong-gu",
         "cn": "東區"
     },
     {
-        "dosi_code": "26",
+        "city_code": "26",
         "code": "26040",
         "name": "북구",
         "en": "Buk-gu",
         "cn": "北區"
     },
     {
-        "dosi_code": "26",
+        "city_code": "26",
         "code": "26310",
         "name": "울주군",
         "en": "Ulju-gun",
         "cn": "蔚州郡"
     },
     {
-        "dosi_code": "29",
+        "city_code": "29",
         "code": "29010",
         "name": "세종특별자치시",
         "en": "Sejong",
         "cn": "世宗特別自治市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31010",
         "name": "수원시",
         "en": "Suwon-si",
         "cn": "水原市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31011",
         "name": "장안구",
         "en": "Jangan-gu",
         "cn": "長安區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31012",
         "name": "권선구",
         "en": "Gwonseon-gu",
         "cn": "勸善區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31013",
         "name": "팔달구",
         "en": "Paldal-gu",
         "cn": "八達區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31014",
         "name": "영통구",
         "en": "Yeongtong-gu",
         "cn": "靈通區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31020",
         "name": "성남시",
         "en": "Seongnam-si",
         "cn": "城南市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31021",
         "name": "수정구",
         "en": "Sujeong-gu",
         "cn": "壽井區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31022",
         "name": "중원구",
         "en": "Jungwon-gu",
         "cn": "中院區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31023",
         "name": "분당구",
         "en": "Bundang-gu",
         "cn": "盆唐區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31030",
         "name": "의정부시",
         "en": "Uijeongbu-si",
         "cn": "議政府市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31040",
         "name": "안양시",
         "en": "Anyang-si",
         "cn": "安養市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31041",
         "name": "만안구",
         "en": "Manan-gu",
         "cn": "萬安區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31042",
         "name": "동안구",
         "en": "Dongan-gu",
         "cn": "東安區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31050",
         "name": "부천시",
         "en": "Bucheon-si",
         "cn": "富川市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31060",
         "name": "광명시",
         "en": "Gwangmyeong-si",
         "cn": "光明市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31070",
         "name": "평택시",
         "en": "Pyeongtaek-si",
         "cn": "平澤市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31080",
         "name": "동두천시",
         "en": "Dongducheon-si",
         "cn": "東豆川市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31090",
         "name": "안산시",
         "en": "Ansan-si",
         "cn": "安山市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31091",
         "name": "상록구",
         "en": "Sangnok-gu",
         "cn": "常綠區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31092",
         "name": "단원구",
         "en": "Danwon-gu",
         "cn": "檀園區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31100",
         "name": "고양시",
         "en": "Goyang-si",
         "cn": "高陽市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31101",
         "name": "덕양구",
         "en": "Deogyang-gu",
         "cn": "德陽區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31103",
         "name": "일산동구",
         "en": "Ilsandong-gu",
         "cn": "一山東區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31104",
         "name": "일산서구",
         "en": "Ilsanseo-gu",
         "cn": "一山西區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31110",
         "name": "과천시",
         "en": "Gwacheon-si",
         "cn": "果川市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31120",
         "name": "구리시",
         "en": "Guri-si",
         "cn": "九里市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31130",
         "name": "남양주시",
         "en": "Namyangju-si",
         "cn": "南楊州市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31140",
         "name": "오산시",
         "en": "Osan-si",
         "cn": "烏山市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31150",
         "name": "시흥시",
         "en": "Siheung-si",
         "cn": "始興市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31160",
         "name": "군포시",
         "en": "Gunpo-si",
         "cn": "軍浦市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31170",
         "name": "의왕시",
         "en": "Uiwang-si",
         "cn": "義王市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31180",
         "name": "하남시",
         "en": "Hanam-si",
         "cn": "河南市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31190",
         "name": "용인시",
         "en": "Yongin-si",
         "cn": "龍仁市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31191",
         "name": "처인구",
         "en": "Cheoin-gu",
         "cn": "處仁區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31192",
         "name": "기흥구",
         "en": "Giheung-gu",
         "cn": "器興區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31193",
         "name": "수지구",
         "en": "Suji-gu",
         "cn": "水枝區"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31200",
         "name": "파주시",
         "en": "Paju-si",
         "cn": "坡州市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31210",
         "name": "이천시",
         "en": "Icheon-si",
         "cn": "利川市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31220",
         "name": "안성시",
         "en": "Anseong-si",
         "cn": "安城市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31230",
         "name": "김포시",
         "en": "Gimpo-si",
         "cn": "金浦市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31240",
         "name": "화성시",
         "en": "Hwaseong-si",
         "cn": "華城市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31250",
         "name": "광주시",
         "en": "Gwangju-si",
         "cn": "廣州市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31260",
         "name": "양주시",
         "en": "Yangju-si",
         "cn": "楊州市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31270",
         "name": "포천시",
         "en": "Pocheon-si",
         "cn": "抱川市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31280",
         "name": "여주시",
         "en": "Yeoju-si",
         "cn": "驪州市"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31350",
         "name": "연천군",
         "en": "Yeoncheon-gun",
         "cn": "漣川郡"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31370",
         "name": "가평군",
         "en": "Gapyeong-gun",
         "cn": "加平郡"
     },
     {
-        "dosi_code": "31",
+        "city_code": "31",
         "code": "31380",
         "name": "양평군",
         "en": "Yangpyeong-gun",
         "cn": "楊平郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32010",
         "name": "춘천시",
         "en": "Chuncheon-si",
         "cn": "春川市"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32020",
         "name": "원주시",
         "en": "Wonju-si",
         "cn": "原州市"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32030",
         "name": "강릉시",
         "en": "Gangneung-si",
         "cn": "江陵市"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32040",
         "name": "동해시",
         "en": "Donghae-si",
         "cn": "東海市"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32050",
         "name": "태백시",
         "en": "Taebaek-si",
         "cn": "太白市"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32060",
         "name": "속초시",
         "en": "Sokcho-si",
         "cn": "束草市"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32070",
         "name": "삼척시",
         "en": "Samcheok-si",
         "cn": "三陟市"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32310",
         "name": "홍천군",
         "en": "Hongcheon-gun",
         "cn": "洪川郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32320",
         "name": "횡성군",
         "en": "Hoengseong-gun",
         "cn": "橫城郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32330",
         "name": "영월군",
         "en": "Yeongwol-gun",
         "cn": "寧越郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32340",
         "name": "평창군",
         "en": "Pyeongchang-gun",
         "cn": "平昌郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32350",
         "name": "정선군",
         "en": "Jeongseon-gun",
         "cn": "旌善郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32360",
         "name": "철원군",
         "en": "Cheorwon-gun",
         "cn": "鐵原郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32370",
         "name": "화천군",
         "en": "Hwacheon-gun",
         "cn": "華川郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32380",
         "name": "양구군",
         "en": "Yanggu-gun",
         "cn": "楊口郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32390",
         "name": "인제군",
         "en": "Inje-gun",
         "cn": "麟蹄郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32400",
         "name": "고성군",
         "en": "Goseong-gun",
         "cn": "高城郡"
     },
     {
-        "dosi_code": "32",
+        "city_code": "32",
         "code": "32410",
         "name": "양양군",
         "en": "Yangyang-gun",
         "cn": "襄陽郡"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33020",
         "name": "충주시",
         "en": "Chungju-si",
         "cn": "忠州市"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33030",
         "name": "제천시",
         "en": "Jecheon-si",
         "cn": "堤川市"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33040",
         "name": "청주시",
         "en": "Cheongju-si",
         "cn": "淸州市"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33041",
         "name": "상당구",
         "en": "Sangdang-gu",
         "cn": "上黨區"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33042",
         "name": "서원구",
         "en": "Seowon-gu",
         "cn": "西原區"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33043",
         "name": "흥덕구",
         "en": "Heungdeok-gu",
         "cn": "興德區"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33044",
         "name": "청원구",
         "en": "Cheongwon-gu",
         "cn": "淸原區"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33320",
         "name": "보은군",
         "en": "Boeun-gun",
         "cn": "報恩郡"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33330",
         "name": "옥천군",
         "en": "Okcheon-gun",
         "cn": "沃川郡"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33340",
         "name": "영동군",
         "en": "Yeongdong-gun",
         "cn": "永同郡"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33350",
         "name": "진천군",
         "en": "Jincheon-gun",
         "cn": "鎭川郡"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33360",
         "name": "괴산군",
         "en": "Goesan-gun",
         "cn": "槐山郡"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33370",
         "name": "음성군",
         "en": "Eumseong-gun",
         "cn": "陰城郡"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33380",
         "name": "단양군",
         "en": "Danyang-gun",
         "cn": "丹陽郡"
     },
     {
-        "dosi_code": "33",
+        "city_code": "33",
         "code": "33390",
         "name": "증평군",
         "en": "Jeungpyeong-gun",
         "cn": "曾坪郡"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34010",
         "name": "천안시",
         "en": "Cheonan-si",
         "cn": "天安市"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34011",
         "name": "동남구",
         "en": "Dongnam-gu",
         "cn": "東南區"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34012",
         "name": "서북구",
         "en": "Sebuk-gu",
         "cn": "西北區"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34020",
         "name": "공주시",
         "en": "Gongju-si",
         "cn": "公州市"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34030",
         "name": "보령시",
         "en": "Boryeong-si",
         "cn": "保寧市"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34040",
         "name": "아산시",
         "en": "Asan-si",
         "cn": "牙山市"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34050",
         "name": "서산시",
         "en": "Seosan-si",
         "cn": "瑞山市"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34060",
         "name": "논산시",
         "en": "Nonsan-si",
         "cn": "論山市"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34070",
         "name": "계룡시",
         "en": "Gyeryong-si",
         "cn": "鷄龍市"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34080",
         "name": "당진시",
         "en": "Dangjin-si",
         "cn": "唐津郡"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34310",
         "name": "금산군",
         "en": "Geumsan-gun",
         "cn": "錦山郡"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34330",
         "name": "부여군",
         "en": "Buyeo-gun",
         "cn": "扶餘郡"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34340",
         "name": "서천군",
         "en": "Seocheon-gun",
         "cn": "舒川郡"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34350",
         "name": "청양군",
         "en": "Cheongyang-gun",
         "cn": "靑陽郡"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34360",
         "name": "홍성군",
         "en": "Hongseong-gun",
         "cn": "洪城郡"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34370",
         "name": "예산군",
         "en": "Yesan-gun",
         "cn": "禮山郡"
     },
     {
-        "dosi_code": "34",
+        "city_code": "34",
         "code": "34380",
         "name": "태안군",
         "en": "Taean-gun",
         "cn": "泰安郡"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35010",
         "name": "전주시",
         "en": "Jeonju-si",
         "cn": "全州市"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35011",
         "name": "완산구",
         "en": "Wansan-gu",
         "cn": "完山區"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35012",
         "name": "덕진구",
         "en": "Deokjin-gu",
         "cn": "德津區"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35020",
         "name": "군산시",
         "en": "Gunsan-si",
         "cn": "群山市"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35030",
         "name": "익산시",
         "en": "Iksan-si",
         "cn": "益山市"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35040",
         "name": "정읍시",
         "en": "Jeongeup-si",
         "cn": "井邑市"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35050",
         "name": "남원시",
         "en": "Namwon-si",
         "cn": "南原市"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35060",
         "name": "김제시",
         "en": "Gimje-si",
         "cn": "金堤市"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35310",
         "name": "완주군",
         "en": "Wanju-gun",
         "cn": "完州郡"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35320",
         "name": "진안군",
         "en": "Jinan-gun",
         "cn": "鎭安郡"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35330",
         "name": "무주군",
         "en": "Muju-gun",
         "cn": "茂朱郡"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35340",
         "name": "장수군",
         "en": "Jangsu-gun",
         "cn": "長水郡"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35350",
         "name": "임실군",
         "en": "Imsil-gun",
         "cn": "任實郡"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35360",
         "name": "순창군",
         "en": "Sunchang-gun",
         "cn": "淳昌郡"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35370",
         "name": "고창군",
         "en": "Gochang-gun",
         "cn": "高敞郡"
     },
     {
-        "dosi_code": "35",
+        "city_code": "35",
         "code": "35380",
         "name": "부안군",
         "en": "Buan-gun",
         "cn": "扶安郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36010",
         "name": "목포시",
         "en": "Mokpo-si",
         "cn": "木浦市"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36020",
         "name": "여수시",
         "en": "Yeosu-si",
         "cn": "麗水市"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36030",
         "name": "순천시",
         "en": "Suncheon-si",
         "cn": "順天市"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36040",
         "name": "나주시",
         "en": "Naju-si",
         "cn": "羅州市"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36060",
         "name": "광양시",
         "en": "Gwangyang-si",
         "cn": "光陽市"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36310",
         "name": "담양군",
         "en": "Damyang-gun",
         "cn": "潭陽郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36320",
         "name": "곡성군",
         "en": "Gokseong-gun",
         "cn": "谷成郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36330",
         "name": "구례군",
         "en": "Gurye-gun",
         "cn": "求禮郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36350",
         "name": "고흥군",
         "en": "Goheung-gun",
         "cn": "高興郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36360",
         "name": "보성군",
         "en": "Boseong-gun",
         "cn": "寶城郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36370",
         "name": "화순군",
         "en": "Hwasun-gun",
         "cn": "和順郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36380",
         "name": "장흥군",
         "en": "Jangheung-gun",
         "cn": "長興郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36390",
         "name": "강진군",
         "en": "Gangjin-gun",
         "cn": "康津郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36400",
         "name": "해남군",
         "en": "Haenam-gun",
         "cn": "海南郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36410",
         "name": "영암군",
         "en": "Yeongam-gun",
         "cn": "靈岩郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36420",
         "name": "무안군",
         "en": "Muan-gun",
         "cn": "務安郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36430",
         "name": "함평군",
         "en": "Hampyeong-gun",
         "cn": "咸平郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36440",
         "name": "영광군",
         "en": "Yeonggwang-gun",
         "cn": "靈光郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36450",
         "name": "장성군",
         "en": "Jangseong-gun",
         "cn": "長城郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36460",
         "name": "완도군",
         "en": "Wando-gun",
         "cn": "莞島郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36470",
         "name": "진도군",
         "en": "Jindo-gun",
         "cn": "珍島郡"
     },
     {
-        "dosi_code": "36",
+        "city_code": "36",
         "code": "36480",
         "name": "신안군",
         "en": "Sinan-gun",
         "cn": "新安郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37010",
         "name": "포항시",
         "en": "Pohang-si",
         "cn": "浦項市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37011",
         "name": "남구",
         "en": "Nam-gu",
         "cn": "南區"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37012",
         "name": "북구",
         "en": "Buk-gu",
         "cn": "北區"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37020",
         "name": "경주시",
         "en": "Gyeongju-si",
         "cn": "慶州市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37030",
         "name": "김천시",
         "en": "Gimcheon-si",
         "cn": "金泉市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37040",
         "name": "안동시",
         "en": "Andong-si",
         "cn": "安東市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37050",
         "name": "구미시",
         "en": "Gumi-si",
         "cn": "龜尾市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37060",
         "name": "영주시",
         "en": "Yeongju-si",
         "cn": "榮州市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37070",
         "name": "영천시",
         "en": "Yeongcheon-si",
         "cn": "永川市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37080",
         "name": "상주시",
         "en": "Sangju-si",
         "cn": "尙州市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37090",
         "name": "문경시",
         "en": "Mungyeong-si",
         "cn": "聞慶市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37100",
         "name": "경산시",
         "en": "Gyeongsan-si",
         "cn": "慶山市"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37310",
         "name": "군위군",
         "en": "Gunwi-gun",
         "cn": "軍威郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37320",
         "name": "의성군",
         "en": "Uiseong-gun",
         "cn": "義城郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37330",
         "name": "청송군",
         "en": "Cheongsong-gun",
         "cn": "靑松郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37340",
         "name": "영양군",
         "en": "Yeongyang-gun",
         "cn": "英陽郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37350",
         "name": "영덕군",
         "en": "Yeongdeok-gun",
         "cn": "盈德郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37360",
         "name": "청도군",
         "en": "Cheongdo-gun",
         "cn": "淸道郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37370",
         "name": "고령군",
         "en": "Goryeong-gun",
         "cn": "高靈郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37380",
         "name": "성주군",
         "en": "Seongju-gun",
         "cn": "星州郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37390",
         "name": "칠곡군",
         "en": "Chilgok-gun",
         "cn": "漆谷郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37400",
         "name": "예천군",
         "en": "Yecheon-gun",
         "cn": "醴泉郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37410",
         "name": "봉화군",
         "en": "Bonghwa-gun",
         "cn": "奉化郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37420",
         "name": "울진군",
         "en": "Uljin-gun",
         "cn": "蔚珍郡"
     },
     {
-        "dosi_code": "37",
+        "city_code": "37",
         "code": "37430",
         "name": "울릉군",
         "en": "Ulleung-gun",
         "cn": "鬱陵郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38030",
         "name": "진주시",
         "en": "Jinju-si",
         "cn": "晉州市"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38050",
         "name": "통영시",
         "en": "Tongyeong-si",
         "cn": "統營市"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38060",
         "name": "사천시",
         "en": "Sacheon-si",
         "cn": "泗川市"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38070",
         "name": "김해시",
         "en": "Gimhae-si",
         "cn": "金海市"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38080",
         "name": "밀양시",
         "en": "Miryang-si",
         "cn": "密陽市"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38090",
         "name": "거제시",
         "en": "Geoje-si",
         "cn": "巨濟市"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38100",
         "name": "양산시",
         "en": "Yangsan-si",
         "cn": "梁山市"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38110",
         "name": "창원시",
         "en": "Changwon-si",
         "cn": "昌原市"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38111",
         "name": "의창구",
         "en": "Uichang-gu",
         "cn": "義昌區"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38112",
         "name": "성산구",
         "en": "seongsan-gu",
         "cn": "城山區"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38113",
         "name": "마산합포구",
         "en": "Masanhappo-gu",
         "cn": "馬山合浦區"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38114",
         "name": "마산회원구",
         "en": "Masanhoewon-gu",
         "cn": "馬山檜原區"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38115",
         "name": "진해구",
         "en": "Jinhae-gu",
         "cn": "鎭海區"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38310",
         "name": "의령군",
         "en": "Uiryeong-gun",
         "cn": "宜寧郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38320",
         "name": "함안군",
         "en": "Haman-gun",
         "cn": "咸安郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38330",
         "name": "창녕군",
         "en": "Changnyeong-gun",
         "cn": "昌寧郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38340",
         "name": "고성군",
         "en": "Goseong-gun",
         "cn": "固城郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38350",
         "name": "남해군",
         "en": "Namhae-gun",
         "cn": "南海郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38360",
         "name": "하동군",
         "en": "Hadong-gun",
         "cn": "河東郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38370",
         "name": "산청군",
         "en": "Sancheong-gun",
         "cn": "山淸郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38380",
         "name": "함양군",
         "en": "Hamyang-gun",
         "cn": "咸陽郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38390",
         "name": "거창군",
         "en": "Geochang-gun",
         "cn": "居昌郡"
     },
     {
-        "dosi_code": "38",
+        "city_code": "38",
         "code": "38400",
         "name": "합천군",
         "en": "Hapcheon-gun",
         "cn": "陜川郡"
     },
     {
-        "dosi_code": "39",
+        "city_code": "39",
         "code": "39010",
         "name": "제주시",
         "en": "Jeju-si",
         "cn": "濟州市"
     },
     {
-        "dosi_code": "39",
+        "city_code": "39",
         "code": "39020",
         "name": "서귀포시",
         "en": "Seogwipo-si",
